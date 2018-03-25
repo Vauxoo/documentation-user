@@ -617,7 +617,7 @@ FAQ
    :align: center
 
 .. _SAT: http://www.sat.gob.mx/fichas_tematicas/buzon_tributario/Documents/Anexo24_05012015.pdf
-.. _Finkok: https://www.finkok.com/contacto.html
+.. _Finkok: https://goo.gl/yhMXQ5
 .. _`Solución Factible`: https://solucionfactible.com/sf/v3/timbrado.jsp
 .. _`SAT resolution`: http://sat.gob.mx/informacion_fiscal/factura_electronica/Paginas/Anexo_20_version3.3.aspx
 .. _`given by the SAT`: http://sat.gob.mx/informacion_fiscal/factura_electronica/Documents/GuiaAnexo20DPA.pdf
